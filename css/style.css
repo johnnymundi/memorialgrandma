@@ -1,0 +1,90 @@
+body, html {
+    margin: 0;
+    font: 16px "Lato", sans-serif;
+    color: #777;
+    height: 100%;
+    width: 100%;
+}
+
+.conteudo-titulo {
+    position: absolute;
+    left: 0;
+    top: 45%;
+    widows: 100%;
+    text-align: center;
+}
+
+
+h3 {
+    text-transform: uppercase;
+    color: #111;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.caixa1, .caixa2, .caixa3, .caixa4 {
+    position: relative;
+    height: 100%;
+    widows: 100%;
+    opacity: 0.9;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.conteudo {
+    color: #777;
+    font-size: 18px;
+    background-color: #fff;
+    text-align: justify;
+    padding: 50px 80px;
+}
+
+.conteudo-titulo {
+    position: absolute;
+    left: 0;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+}
+
+.conteudo-titulo span#titulo {
+    background-color: #111;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 5px;
+    color: #fff;
+}
+
+.conteudo-entre-paragrafos {
+    position: absolute;
+    left: o;
+    top: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+.conteudo-entre-paragrafos span#paragrafos {
+    background-color: #111;
+    text-align: center;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 5px;
+    color: #fff;
+}
+
+.caixa1 {
+    background-image: url("../img/img1.jpg");
+}
+
+.caixa2 {
+    background-image: url("../img/img2.jpg");
+}
+
+.caixa3 {
+    background-image: url("../img/img3.jpg");
+}
+
+.caixa4 {
+    background-image: url("../img/img4.jpg");
+}
