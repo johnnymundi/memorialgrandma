@@ -1,2 +1,2 @@
 # memorialgrandma
-I simple parallax memorial site (in development)
+A simple parallax memorial site (in development)
